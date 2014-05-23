@@ -17,7 +17,7 @@ Or install it yourself as:
 
     $ gem install auth_scope
 
-### Scope Structure
+## Scope Structure
 
 Authorization scope strings look something like this:    
 
