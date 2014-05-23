@@ -9,14 +9,6 @@ Add this line to your application's Gemfile:
 
     gem 'auth_scope'
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install auth_scope
-
 ## Scope Structure
 
 Authorization scope strings look something like this:    
