@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = AuthScope::VERSION
   spec.authors       = ["Michael Bleigh"]
   spec.email         = ["mbleigh@mbleigh.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Authorization library using namespaced strings. Great for OAuth 2.0 APIs.}
+  spec.description   = %q{Authorization library using namespaced strings. Great for OAuth 2.0 APIs.}
+  spec.homepage      = "https://github.com/divshot/auth_scope"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
